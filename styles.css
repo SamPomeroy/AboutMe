@@ -1,0 +1,34 @@
+body {
+    background-color: hsl(178, 77%, 28%);
+    padding: 40px;
+    border-radius: 30px;
+    border: 10px dotted hsl(178, 50%, 10%);
+    margin: 0;
+}
+.list {
+        color: hsl(0, 67%, 25%);
+        font-family: sans-serif;
+        padding: 0;
+         }
+.item {
+    color: hsl(0, 64%, 28%);
+}
+#image {
+    border: 5px solid hsl(178, 48%, 28%);
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 hsl(177, 24%, 68%) ;
+}
+footer {
+    text-align: center;
+}
+h1, h2, p {
+    font-family: tahoma;
+    color: 
+    hsl(177, 24%, 68%)
+}
+p {
+    text-align: left;
+}
+li {
+    list-style-type: none;
+}
